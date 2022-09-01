@@ -1,0 +1,4 @@
+1002     Vu Trung Duc              25/2 /2003   Nam        7.00   8.00   9.00   8.00            Kha       
+1003     Tuan Anh                  13/2 /2003   Nam        6.00   7.00   8.00   7.00            Trung binh
+1001     Dan Toc                   12/2 /2003   Nu         7.00   8.00   9.00   8.00            Kha       
+1000     Tran Tuan Anh             3 /3 /2003   Nam        8.00   9.00   10.00  9.00            Gioi      
